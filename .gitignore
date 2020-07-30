@@ -1,5 +1,8 @@
-# Compiled class file
+# IDE
 *.idea
+
+# Out
+*out
 
 # Compiled class file
 *.class
